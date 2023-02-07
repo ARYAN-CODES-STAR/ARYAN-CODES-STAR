@@ -1,4 +1,7 @@
-<h1 align="center">Namaste🙏, Aryan Sharma this is</h1>
+<!-- <h1 align="center">Namaste🙏, Aryan Sharma this is</h1> -->
+<h1 align= "center">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=fde74c&center=true&vCenter=true&width=550&height=100&lines=I'm+Aryan!">
+</h1>
 <h3 align="center">A passionate frontend developer and a Tech Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-codes-star&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-codes-star" /> </p>
