@@ -2,7 +2,7 @@
 <h1 align= "center">
    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=fde74c&center=true&vCenter=true&width=550&height=100&lines=I'm+Aryan!">
 </h1>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Developer;Competitive+Coder;and+Community+manager)](https://git.io/typing-svg)
+
 <h3 align="center">A passionate frontend developer and a Tech Enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-codes-star&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-codes-star" /> </p>
