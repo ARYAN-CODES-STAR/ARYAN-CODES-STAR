@@ -22,7 +22,8 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-codes-star&show_icons=true&locale=en&layout=compact" alt="aryan-codes-star" /></p>
 
-[![@@i_aryansharma17's Holopin board](https://holopin.me/@i_aryansharma17#)](https://holopin.io/@@i_aryansharma17)
+<!-- [![@@i_aryansharma17's Holopin board](https://holopin.me/@i_aryansharma17#)](https://holopin.io/@@i_aryansharma17) -->
+[![An image of @i_aryansharma17's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/i_aryansharma17)](https://holopin.io/@i_aryansharma17)
 
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-codes-star&show_icons=true&locale=en" alt="aryan-codes-star" /></p>
