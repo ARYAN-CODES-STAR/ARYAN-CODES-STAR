@@ -1,5 +1,5 @@
 <h1 align= "right">
-   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=fde74c&center=true&vCenter=true&width=550&height=100&lines=I'm+Aryan!">
+   <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=fde74c&center=true&vCenter=true&width=550&height=100&lines=I'm + Aryan!">
 </h1>
 
 <h3 align="center">A passionate frontend developer and a Tech Enthusiast </h3>
