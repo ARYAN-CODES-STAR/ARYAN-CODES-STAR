@@ -19,6 +19,7 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aryan-sharma17) 
+[![Twitter](https://img.shields.io/twitter/url/https/twitter.com/i_AryanSharma17.svg?style=social&label=Follow%20%40i_AryanSharma17)](https://twitter.com/i_AryanSharma17)
 
 # 💻 Tech Stack:
 
