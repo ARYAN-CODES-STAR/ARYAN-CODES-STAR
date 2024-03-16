@@ -39,6 +39,12 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ARYAN-CODES-STAR&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<br/>
+<hr/>
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=ARYAN-CODES-STAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
