@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Frontend Technologies**
 
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 👯 I’m looking to collaborate on **Full-Stack Projects**
 
 - 📫 How to reach me **aryansh0004@gmail.com**
 
