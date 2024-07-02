@@ -1,5 +1,5 @@
 <h1 align= "center">
-   Hi 👋, I'm Aryan Sharma
+   Hi👋, I'm Aryan Sharma
 <!--    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=FF0000&center=true&vCenter=true&width=550&height=100&lines=I'm + Aryan!"> -->
 </h1>
 
