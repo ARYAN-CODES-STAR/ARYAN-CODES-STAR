@@ -3,7 +3,7 @@
 <!--    <img src="https://readme-typing-svg.demolab.com?font=Major+Mono+Display&size=50&pause=10000&color=FF0000&center=true&vCenter=true&width=550&height=100&lines=I'm + Aryan!"> -->
 </h1>
 
-<h2 align="center">A passionate Web developer and a Tech Enthusiast. </h2>
+<h2 align="center">A passionate Web Developer | Tech Writer and a Tech Enthusiast. </h2>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-codes-star&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-codes-star" /> </p> -->
 
