@@ -7,7 +7,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-codes-star&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-codes-star" /> </p> -->
 
-- 🔭 I’m currently working on **Frontend Technologies**
+- 🔭 I’m currently working on **Full Stack Technologies**
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
