@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Full-Stack Projects**
 
-- 📫 How to reach me **aryansh0004@gmail.com**
+- 📫 Email me **aryansh0004@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
