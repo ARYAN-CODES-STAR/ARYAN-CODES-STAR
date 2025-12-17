@@ -44,4 +44,10 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=ARYAN-CODES-STAR&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<br />
+<br />
+<h1>Remind Alerts: 
+</h1>
+<p>solve new severity: npx fix-react2shell-next</p>
+
 
