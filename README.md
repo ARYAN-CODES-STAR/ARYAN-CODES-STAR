@@ -48,6 +48,6 @@
 <br />
 <h1>Remind Alerts: 
 </h1>
-<p>solve new severity: npx fix-react2shell-next</p>
+<p>solve next version severity: npx fix-react2shell-next</p>
 
 
