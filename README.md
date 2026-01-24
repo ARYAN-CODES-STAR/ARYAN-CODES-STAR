@@ -9,9 +9,7 @@
 
 - 🔭 I’m currently working on **Full Stack Technologies**
 
-- 👯 I’m looking to collaborate on **Full-Stack Projects**
-
-- 📫 Email me **aryansh0004@gmail.com**
+- 👯 For collaborations. Email me on **aryansh0004@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
