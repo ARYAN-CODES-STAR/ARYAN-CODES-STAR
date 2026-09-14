@@ -11,7 +11,7 @@
 
 - 👯 For collaborations. Email me on **aryansh0004@gmail.com**
 
-- I have experience in working with **Frontend**, **Backend**, **Flutter technologies**.
+- I have experience in working with **Frontend**, **Backend**, **Mobile Development**.
 
 
 <h3 align="left">Connect with me:</h3>
